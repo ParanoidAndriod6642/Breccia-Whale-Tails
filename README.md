@@ -1,10 +1,10 @@
 # Breccia[^1] Whale Tails
-![alt text](https://github.com/ParanoidAndriod6642/Breccia-Whale-Tails/blob/main/WhaleTail%Breccia.png "Whale Tails")
+![alt text](https://github.com/ParanoidAndriod6642/Breccia-Whale-Tails/blob/main/WhaleTail%20Breccia.png "Whale Tails")
 Documentation for creating Whale Tail Necklaces Breccia[^2]
 ## Materials
 - Breccia found in Queenstown on Lake Wakatipu near Jacks Point/Robbie’s beach on waterfront.
-- ELAM's Combined LAPIDARY TRIM SAW AND CABBING MACHINE!
-[alt text](https://github.com/ParanoidAndriod6642/Breccia-Whale-Tails/blob/main/Machine1.png "Machine Picture")
+- ELAM's Combined LAPIDARY TRIM SAW AND CABBING MACHINE
+![alt text](https://github.com/ParanoidAndriod6642/Breccia-Whale-Tails/blob/main/Machine1.png "Machine Picture")
 ## Process
 Made using ELAM’s Combined LAPIDARY TRIM SAW AND CABBING MACHINE, and their stone hand drill with diamond fitting.
 Cut purple dotted lines (1,2) with trim saw for basic shape and smooth to green curves (3) with cabbing machine.
