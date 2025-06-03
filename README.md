@@ -20,4 +20,3 @@ Additionally help from Elam staff to maintain, assist and allow use of workshop.
 [^2]: It has many different ways of presenting as it is a conglomerate with defining clasts [^3] wise for rock identification. https://tumblestoneblog.wordpress.com/category/beach-stones/.
 [^3]: See Conglomorate https://rocksminerals.flexiblelearning.auckland.ac.nz/rocks/conglomerate.html
 
-![image](https://github.com/user-attachments/assets/f12ac129-eae0-4236-bc97-4903f7efd979)
